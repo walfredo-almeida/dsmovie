@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.devsuperior.dsmovie.dto.MovieDTO;
 import com.devsuperior.dsmovie.services.MovieService;
+// sot teste git
 
 @RestController
 @RequestMapping(value = "/movies")
